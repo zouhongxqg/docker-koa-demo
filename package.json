@@ -5,8 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Koa", "Node"],
-  "author": "Ruan Yifeng",
+  "keywords": ["Koa", "Node", "Docker"],
+  "author": "Zou Hong",
   "license": "ISC",
   "dependencies": {
     "fs.promised": "^3.0.0",
